@@ -1,0 +1,5 @@
+
+This failed because you had to execute this GUI in ros2 workspace
+
+So, we need to construct the project in the ros2 workspace
+and avoid using threads as you can 

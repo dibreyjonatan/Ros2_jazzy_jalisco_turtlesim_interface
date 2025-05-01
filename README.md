@@ -28,6 +28,7 @@ colcon build
 
 3. Run the interface
 ```
+cd ~/ros2_ws
 source install/setup.bash
 ros2 run turtlesim_interface show_gui
 ```

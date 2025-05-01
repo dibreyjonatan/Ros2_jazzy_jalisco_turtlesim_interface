@@ -34,5 +34,5 @@ ros2 run turtlesim_interface show_gui
 
 ## Results of the project
 
-![demo_execution](ressource/turtlesim_interface.gif)
+![demo_execution](ressource/turtlesim_interface_.gif)
 

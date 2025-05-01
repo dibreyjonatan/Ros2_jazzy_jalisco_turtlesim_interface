@@ -36,3 +36,11 @@ ros2 run turtlesim_interface show_gui
 
 ![demo_execution](ressource/turtlesim_interface_.gif)
 
+## 📄 License
+
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+You are free to use, modify, and distribute this software under the terms of the license.  
+See the [LICENSE](LICENSE) file for more details.
+
+
